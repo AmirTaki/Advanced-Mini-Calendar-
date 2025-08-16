@@ -12,3 +12,12 @@ body{
     min-height: 100vh;
     background: #222327;
 }
+
+.week{
+    display: flex ;
+    gap: 5px;
+    height: 120px;
+    padding: 20px 40px;  
+    background: #fff;
+    border-radius: 10px;
+}
