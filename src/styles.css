@@ -41,4 +41,7 @@ body{
     font-size: 1.6em;
     color: #222327;
     border: 6px solid #222327;
+    transform: translateY(-70px);
+    font-weight: 500;
+    cursor: pointer;
 }
