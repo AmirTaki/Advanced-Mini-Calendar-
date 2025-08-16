@@ -52,5 +52,7 @@ body{
     top:44px;
     width: 30px;
     height: 30px;
-    background: #f00;
+    background: transparent;
+    border-top-right-radius: 10px;
+    box-shadow: 1px -6px #222327;
 }
