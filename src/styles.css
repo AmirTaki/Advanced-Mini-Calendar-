@@ -80,3 +80,10 @@ body{
     color: #222327;
     font-weight: 500;;
 }
+.week li.current h3 {
+    position: absolute;
+    transform: translateY(-62px);
+    font-size: .85em;
+    color: #fff;
+    font-weight: 500;;
+}
