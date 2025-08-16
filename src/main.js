@@ -17,7 +17,7 @@ h1.textContent = day;
 active.appendChild(h1)
 
 // month
-const h3 = document.createElement("h3")
-h3.textContent = month;
-active.appendChild(h3)
+const h5 = document.createElement("h5")
+h5.textContent = month;
+active.appendChild(h5)
 

@@ -73,3 +73,10 @@ body{
     font-size: 1.6em;
     color: #222327
 }
+.week li.current h5 {
+    position: absolute;
+    transform: translateY(102px);
+    font-size: .55em;
+    color: #222327;
+    font-weight: 500;;
+}
