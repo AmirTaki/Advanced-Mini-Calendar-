@@ -48,6 +48,8 @@ body{
 .week li.current::before{
     content: "";
     position: absolute;
+    left:-35px;
+    top:44px;
     width: 30px;
     height: 30px;
     background: #f00;
