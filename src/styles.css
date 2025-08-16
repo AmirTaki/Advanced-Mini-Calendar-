@@ -45,3 +45,10 @@ body{
     font-weight: 500;
     cursor: pointer;
 }
+.week li.current::before{
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: #f00;
+}
