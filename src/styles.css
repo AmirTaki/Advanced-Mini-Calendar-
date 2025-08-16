@@ -56,3 +56,14 @@ body{
     border-top-right-radius: 10px;
     box-shadow: 1px -6px #222327;
 }
+.week li.current::after{
+    content: "";
+    position: absolute;
+    right:-35px;
+    top:44px;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border-top-left-radius: 10px;
+    box-shadow: -1px -6px #222327;
+}
