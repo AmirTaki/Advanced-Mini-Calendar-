@@ -21,3 +21,14 @@ body{
     background: #fff;
     border-radius: 10px;
 }
+
+.week li {
+    list-style: none; 
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #666;
+    border-radius: 20%;
+}
